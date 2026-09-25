@@ -58,7 +58,7 @@ body {
 }
 
 .specialMessage {
-  font-size: 8rem;
+  font-size: 5rem;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   text-transform: capitalize;
@@ -68,6 +68,9 @@ body {
   height: 100vh;
   background-color: #07111f;
   color: #f8fafc;
+  background-image: url(../media/img/pexels-kelly-9227733.jpg);
+  background-size: cover;
+  background-position: center center;
 }
 
 /* 
