@@ -66,6 +66,8 @@ body {
   align-items: center;
   justify-content: center;
   height: 100vh;
+  background-color: #07111f;
+  color: #f8fafc;
 }
 
 /* 
